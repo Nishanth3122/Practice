@@ -1,2 +1,7 @@
 hi i am vivin shanker pj
-and i am a QA engineer
+<<<<<<< HEAD
+
+=======
+and im nishanth
+>>>>>>> f8be4e373d69d90a77e19c1e5b7df5b0ee65c5af
+and iam tiruppur
