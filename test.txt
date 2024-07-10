@@ -1,7 +1,13 @@
 hi i am vivin shanker pj
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 and im nishanth
 >>>>>>> f8be4e373d69d90a77e19c1e5b7df5b0ee65c5af
-and iam tiruppur
+
+=======
+and im nishanth from kangayam
+>>>>>>> eea2dc480bfd4101a262a9285f6b08ea7c755cfd
+ 
+ i am form tiruppur
